@@ -22,9 +22,6 @@
 <!-- Streak Stats -->
 ![](https://streak-stats.demolab.com?user=Saurabh-Jagtap&theme=nightowl&hide_border=false)
 
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Jagtap&theme=nightowl&hide_border=false&layout=compact)
-
 ---
 
 <!-- Profile View Counter -->
