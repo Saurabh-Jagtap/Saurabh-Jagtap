@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on: A full-stack music website and personal projects to sharpen my development skills  
-- 🌱 I’m currently learning: Full-stack Web Development (React, Tailwind, Flask, Jinja, APIs)  
+- 🌱 I’m currently learning: Full-stack Web Development (React, Tailwind, APIs, Next.js)  
 - 👯 I’m looking to collaborate on: Open-source web projects or anything creative in frontend/backend development  
 - 🤔 I’m looking for help with: Flask integration, API development, and deploying full-stack apps  
 - 💬 Ask me about: JavaScript, Python, React, or building beginner-friendly projects  
